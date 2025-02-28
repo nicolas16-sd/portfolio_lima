@@ -1,6 +1,6 @@
 # portfolio_lima
 
-! [](./Captura%20de%20Tela%202025-02-28%20às%2008.42.32.png)
+![](./print.png)
 
 ## Projeto
 
